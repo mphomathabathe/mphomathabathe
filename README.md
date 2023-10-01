@@ -15,4 +15,6 @@ I express my yearning for answers and clarity in ways that make my blackness cle
 This experimentation extends to meaningful projects where I attempt to mimic nature or Mother Earth, seeking to consolidate the elements of texture and form in harmony with natural principles.
 
 
+[![An image of @mphomathabathe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mphomathabathe)](https://holopin.io/@mphomathabathe)
+
 
