@@ -12,8 +12,7 @@ I express my yearning for answers and clarity in ways that make my blackness cle
 
 ## Experimentation
 
-I experiment with different textures and moulds that are formed from the earth.
-
+This experimentation extends to meaningful projects where I attempt to mimic nature or Mother Earth, seeking to consolidate the elements of texture and form in harmony with natural principles.
 
 
 
