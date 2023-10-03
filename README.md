@@ -17,4 +17,4 @@ This experimentation extends to meaningful projects where I attempt to mimic nat
 
 [![An image of @mphomathabathe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mphomathabathe)](https://holopin.io/@mphomathabathe)
 
-
+[![A Champion for IEEE AI Ethics](https://engagestandards.ieee.org/rs/211-FYL-955/images/ieee-ai-ethics-support-badge.png)](https://standards.ieee.org/initiatives/artificial-intelligence-systems/)
