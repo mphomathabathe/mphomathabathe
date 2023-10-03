@@ -6,7 +6,7 @@ I'm a passionate developer with a keen interest in Web3, Backend Development, AI
 - **Projects**: Web3 Apps Hosted on GCP
 
 ## 💻 Backend Development and AI Apps
-- **Certifications**: [Link to certifications](https://github.com/mphomathabathe/mphomathabathe-certifications/tree/main)]
+- **Certifications**: [Link to certifications](https://github.com/mphomathabathe/mphomathabathe-certifications/tree/main)
 - **Projects**:
   - Python
   - Open Source
@@ -14,7 +14,7 @@ I'm a passionate developer with a keen interest in Web3, Backend Development, AI
   - Lemur LLMS
 
 ## 🛠 Full Stack Cloud Development
-- **Business Applications**: [SAP Stack](https://github.com/SAPstack)]
+- **Business Applications**: [SAP Stack](https://github.com/SAPstack)
 
 ## 📊 Data Science AI ML
 - **Project**: Business Analytics Data Immigrant Kft
