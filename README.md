@@ -1,20 +1,37 @@
-# Welcome to My GitHub Page, Quote on My Work:
+# Welcome to My GitHub! 👋
 
-My work carries my spirit, before it carries a message. My intuition plays a vital role in the direction I go and then I compartmentalise with what I prioritise. I represent different parts of myself including abstraction, curiosity, mythology, spirituality and introspection.
+I'm a passionate developer with a keen interest in Web3, Backend Development, AI, Data Science, and more. Dive into my repositories to explore my projects, blog posts, and case studies.
 
-## Blackness in My Work
+## 🌐 Development: Web3
+- **Projects**: Web3 Apps Hosted on GCP
 
-Blackness is vital in my work because it is created by a black woman despite the medium or language it speaks, it is vital because proof of existence is rare in the black community, information is shared but isn’t sustained in ways that are knowledgeable to us right now. 
+## 💻 Backend Development and AI Apps
+- **Certifications**: [Link to certifications](https://github.com/mphomathabathe/mphomathabathe-certifications/tree/main)]
+- **Projects**:
+  - Python
+  - Open Source
+  - Node.js with Express
+  - Lemur LLMS
 
-## Expression and Clarity
+## 🛠 Full Stack Cloud Development
+- **Business Applications**: [SAP Stack](https://github.com/SAPstack)]
 
-I express my yearning for answers and clarity in ways that make my blackness clear even when the work is abstract. My practice embodies subtlety in a form of texture and expression, a curious mix of ambiguity and curiosity. 
+## 📊 Data Science AI ML
+- **Project**: Business Analytics Data Immigrant Kft
+- **Case Studies**: Journals on various data science topics and findings.
 
-## Experimentation
+## 📝 Compliance in AI Development
+- **Project**: 🌟 Key Ethical Principals under Inclusiveness and Equity
+My mission is to solve on an industrial scale the assurance that the digital divide is not widened. It's imperative to ensure equitable access to technology and its benefits. Learn more about my efforts [here](https://github.mphomathabathe).
 
-This experimentation extends to meaningful projects where I attempt to mimic nature or Mother Earth, seeking to consolidate the elements of texture and form in harmony with natural principles.
+[![A Champion for IEEE AI Ethics](https://engagestandards.ieee.org/rs/211-FYL-955/images/ieee-ai-ethics-support-badge.png)](https://standards.ieee.org/initiatives/artificial-intelligence-systems/)
 
+---
+
+## Open-Source Contribution
 
 [![An image of @mphomathabathe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mphomathabathe)](https://holopin.io/@mphomathabathe)
 
-[![A Champion for IEEE AI Ethics](https://engagestandards.ieee.org/rs/211-FYL-955/images/ieee-ai-ethics-support-badge.png)](https://standards.ieee.org/initiatives/artificial-intelligence-systems/)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mpho-mathabathe/) | [Twitter](https://twitter.com/mphomathabath) | [Personal Website](https://mphomathabathe.my.canva.site/biography#all-projects)
+
+
