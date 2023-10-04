@@ -2,7 +2,7 @@
 
 I'm a passionate developer with a keen interest in Web3, Backend Development, AI, Data Science, and more. Dive into my repositories to explore my projects, blog posts, and case studies.
 
-## 🌐 Development: Web3
+## 🌐 Web3 Development 
 - **Projects**: Web3 Apps Hosted on GCP
 
 ## 💻 Backend Development and AI Apps
@@ -22,7 +22,7 @@ I'm a passionate developer with a keen interest in Web3, Backend Development, AI
 
 ## 📝 Compliance in AI Development
 - **Project**: 🌟 Key Ethical Principals under Inclusiveness and Equity
-My mission is to solve on an industrial scale the assurance that the digital divide is not widened. It's imperative to ensure equitable access to technology and its benefits. Learn more about my efforts [here](https://github.mphomathabathe).
+My mission is to solve on an industrial scale the assurance that the digital divide is not widened. It's imperative to ensure equitable access to technology and its benefits. Learn more about my efforts [here](https://github.com/mphomathabathe/appsAI).
 
 [![A Champion for IEEE AI Ethics](https://engagestandards.ieee.org/rs/211-FYL-955/images/ieee-ai-ethics-support-badge.png)](https://standards.ieee.org/initiatives/artificial-intelligence-systems/)
 
