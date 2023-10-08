@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-I'm a passionate developer with a keen interest in Web3, Backend Development, AI, Data Science, and General security as well as compliance in both software/harware systems. Dive into my repositories to explore my projects, blog posts, and case studies.
+I'm a passionate developer with a keen interest in Web3, Backend Development, AI, Data Science, and General security as well as compliance in both software/hardware systems. Dive into my repositories to explore my projects, blog posts, and case studies.
 
 
 ## 🌐 Web3 Development 
@@ -11,7 +11,7 @@ I'm a passionate developer with a keen interest in Web3, Backend Development, AI
 - **Projects**:
   - Python
   - JAVA Design Patterns
-  - Grooovy scripting: Product Engineering, integration development (connectors)
+  - Groovy scripting: Product Engineering, integration development (connectors)
   - JAMStack web design/development
   - Lemur LLMS
 
