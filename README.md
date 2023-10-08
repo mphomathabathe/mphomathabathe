@@ -19,8 +19,10 @@ I'm a passionate developer with a keen interest in Web3, Backend Development, AI
 - **Business Applications**: [SAP Stack](https://github.com/SAPstack)
 
 ## 📊 Data Science 
-- **Project**: Business Analytics Data Immigrant Kft
 - **Case Studies**: Journals on various data science topics and findings.
+- **Project**:
+  - Business Analytics Data Immigrant Kft
+  - Intro to Digital Sound in Python
 
 ## 📝 Compliance in AI Development
 - **Project**: 🌟 Key Ethical Principals under Inclusiveness and Equity
