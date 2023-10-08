@@ -20,7 +20,7 @@ I'm a passionate developer with a keen interest in Web3, Backend Development, AI
 
 ## 📊 Data Science 
 - **Case Studies**: Journals on various data science topics and findings.
-- **Project**:
+- **Projects**:
   - Business Analytics Data Immigrant Kft
   - Intro to Digital Sound in Python
 
