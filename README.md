@@ -26,8 +26,8 @@ I'm a passionate developer with a keen interest in Web3, Backend Development, AI
   - Intro to Digital Sound in Python
 
 ## 📝 Compliance in AI Development
-- **Project**: 🌟 Key Ethical Principals under Inclusiveness and Equity
-My mission is to solve on an industrial scale the assurance that the digital divide is not widened. It's imperative to ensure equitable access to technology and its benefits. 
+- **Project**:
+  - 🌟 Key Ethical Principals under Inclusiveness and Equity, my mission is to ensure that the digital divide is not widened. It's imperative to ensure equitable access to technology and its benefits for All. Leave no one behind!
 
 [![A Champion for IEEE AI Ethics](https://engagestandards.ieee.org/rs/211-FYL-955/images/ieee-ai-ethics-support-badge.png)](https://standards.ieee.org/initiatives/artificial-intelligence-systems/)
 
