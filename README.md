@@ -16,7 +16,8 @@ I'm a passionate developer with a keen interest in Web3, Backend Development, AI
   - Lemur LLMS
 
 ## 🛠 Full Stack Cloud Development
-- **Business Applications**: [SAP Stack](https://github.com/SAPstack)
+- **Projects**:
+  - **Business Applications**: [SAP Stack](https://github.com/SAPstack)
 
 ## 📊 Data Science 
 - **Case Studies**: Journals on various data science topics and findings.
