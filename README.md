@@ -1,6 +1,11 @@
-# Mpho Mathabathe's Skills & Journey
+<p align="center">
+  <img src="./img/image.png" alt="Mpho Mathabathe's Picture" width="150" style="border-radius: 50%;">
+</p>
+
+# Mpho Mathabathe's Skills & Expertise
 
 Throughout my journey in the tech landscape, I've been fortunate to delve into a range of domains, always learning and trying to do my best. A Reflection of the areas I've had the chance to explore:
+
 
 ## Expertise
 
@@ -67,7 +72,7 @@ Open-source has been central to my growth. My contributions are best explored on
 
 For collaborations, or to simply connect, find me on:
 - [LinkedIn](https://www.linkedin.com/in/mpho-mathabathe/)
-- [Twitter](https://twitter.com/mphomathabath)
-- [Portfolio](https://mphomathabathe.my.canva.site/biography#all-projects)
+- [Hot Science Takes on X (Twitter)](https://twitter.com/mphomathabath)
+- [Books and Commentary](https://mphomathabathe.my.canva.site/biography/)
 
 The manifestation of these skills can be vividly seen in the diverse projects and commitments in my [portfolio](https://mpho-mathabathe.netlify.app/). Read Blogs and See my recent Employment History.
