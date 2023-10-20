@@ -76,3 +76,8 @@ For collaborations, or to simply connect, find me on:
 - [Books and Commentary](https://mphomathabathe.my.canva.site/biography/)
 
 The manifestation of these skills can be vividly seen in the diverse projects and commitments in my [portfolio](https://mpho-mathabathe.netlify.app/). Read Blogs and See my recent Employment History.
+
+
+
+![Mpho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mphomathabathe&show=prs_merged,prs_merged_percentage,&hide=stars,issues,&show_icons=true&theme=merk)
+
