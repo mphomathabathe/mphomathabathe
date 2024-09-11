@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./img/image.png" alt="Mpho Mathabathe's Picture" width="150" style="border-radius: 50%;">
-</p>
 
 # Mpho Mathabathe's Skills & Expertise
 
@@ -72,11 +69,8 @@ Open-source has been central to my growth. My contributions are best explored on
 
 For collaborations, or to simply connect, find me on:
 - [LinkedIn](https://www.linkedin.com/in/mpho-mathabathe/)
-- [Hot Science Takes on X (Twitter)](https://twitter.com/mphomathabath)
+- [Hot Science Takes on X (Twitter)](https://twitter.com/mphomala)
 - [Books and Commentary](https://mphomathabathe.my.canva.site/biography/)
-
-The manifestation of these skills can be vividly seen in the diverse projects and commitments in my [portfolio](https://mpho-mathabathe.netlify.app/). Read Blogs and See my recent Employment History.
-
 
 
 ![Mpho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mphomathabathe&show=prs_merged,prs_merged_percentage,&hide=stars,issues,&show_icons=true&theme=merk)
